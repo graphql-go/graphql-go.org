@@ -1,0 +1,219 @@
+---
+sidebar_position: 9
+---
+
+# HTTP Dynamic
+
+Basically, if we have `data.json` like this:
+
+```js title="data.json"
+[
+  { id: "1", name: "Dan" },
+  { id: "2", name: "Lee" },
+  { id: "3", name: "Nick" },
+];
+```
+
+... and `go run main.go`, we can query records:
+
+```go title="main.go"
+$ curl -g 'http://localhost:8080/graphql?query={user(name:"Dan"){id}}'
+{"data":{"user":{"id":"1"}}}
+```
+
+... now let's give Dan a surname:
+
+```js title="data.json"
+[
+  { id: "1", name: "Dan", surname: "Jones" },
+  { id: "2", name: "Lee" },
+  { id: "3", name: "Nick" },
+];
+```
+
+... and kick the server:
+
+```
+kill -SIGUSR1 52114
+```
+
+And ask for Dan's surname:
+
+```
+$ curl -g 'http://localhost:8080/graphql?query={user(name:"Dan"){id,surname}}'
+{"data":{"user":{"id":"1","surname":"Jones"}}}
+```
+
+... or ask Jones's name and ID:
+
+```
+$ curl -g 'http://localhost:8080/graphql?query={user(surname:"Jones"){id,name}}'
+{"data":{"user":{"id":"1","name":"Dan"}}}
+```
+
+If you look at `main.go`, the file is not field-aware. That is, all it knows is how to work with `[]map[string]string` type.
+
+With this, we are not that far from exposing dynamic fields and filters which fully depend on what we have stored, all without changing our tooling.
+
+## Data
+
+```js title="data.json"
+[
+  {
+    id: "1",
+    name: "Dan",
+    surname: "Jones",
+  },
+  {
+    id: "2",
+    name: "Lee",
+  },
+  {
+    id: "3",
+    name: "Nick",
+  },
+];
+```
+
+## Main
+
+```go title="main.go"
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"net/http"
+	"os"
+	"os/signal"
+	"strconv"
+	"syscall"
+
+	"github.com/graphql-go/graphql"
+)
+
+/*****************************************************************************/
+/* Shared data variables to allow dynamic reloads
+/*****************************************************************************/
+
+var schema graphql.Schema
+
+const jsonDataFile = "data.json"
+
+func handleSIGUSR1(c chan os.Signal) {
+	for {
+		<-c
+		fmt.Printf("Caught SIGUSR1. Reloading %s\n", jsonDataFile)
+		err := importJSONDataFromFile(jsonDataFile)
+		if err != nil {
+			fmt.Printf("Error: %s\n", err.Error())
+			return
+		}
+	}
+}
+
+func filterUser(data []map[string]interface{}, args map[string]interface{}) map[string]interface{} {
+	for _, user := range data {
+		for k, v := range args {
+			if user[k] != v {
+				goto nextuser
+			}
+			return user
+		}
+
+	nextuser:
+	}
+	return nil
+}
+
+func executeQuery(query string, schema graphql.Schema) *graphql.Result {
+	result := graphql.Do(graphql.Params{
+		Schema:        schema,
+		RequestString: query,
+	})
+	if len(result.Errors) > 0 {
+		fmt.Printf("wrong result, unexpected errors: %v\n", result.Errors)
+	}
+	return result
+}
+
+func importJSONDataFromFile(fileName string) error {
+	content, err := ioutil.ReadFile(fileName)
+	if err != nil {
+		return err
+	}
+
+	var data []map[string]interface{}
+
+	err = json.Unmarshal(content, &data)
+	if err != nil {
+		return err
+	}
+
+	fields := make(graphql.Fields)
+	args := make(graphql.FieldConfigArgument)
+	for _, item := range data {
+		for k := range item {
+			fields[k] = &graphql.Field{
+				Type: graphql.String,
+			}
+			args[k] = &graphql.ArgumentConfig{
+				Type: graphql.String,
+			}
+		}
+	}
+
+	var userType = graphql.NewObject(
+		graphql.ObjectConfig{
+			Name:   "User",
+			Fields: fields,
+		},
+	)
+
+	var queryType = graphql.NewObject(
+		graphql.ObjectConfig{
+			Name: "Query",
+			Fields: graphql.Fields{
+				"user": &graphql.Field{
+					Type: userType,
+					Args: args,
+					Resolve: func(p graphql.ResolveParams) (interface{}, error) {
+						return filterUser(data, p.Args), nil
+					},
+				},
+			},
+		})
+
+	schema, _ = graphql.NewSchema(
+		graphql.SchemaConfig{
+			Query: queryType,
+		},
+	)
+
+	return nil
+}
+
+func main() {
+	// Catch SIGUSR1 and reload the data file
+	c := make(chan os.Signal, 1)
+	signal.Notify(c, syscall.SIGUSR1)
+	go handleSIGUSR1(c)
+
+	err := importJSONDataFromFile(jsonDataFile)
+	if err != nil {
+		fmt.Printf("Error: %s\n", err.Error())
+		return
+	}
+
+	http.HandleFunc("/graphql", func(w http.ResponseWriter, r *http.Request) {
+		result := executeQuery(r.URL.Query().Get("query"), schema)
+		json.NewEncoder(w).Encode(result)
+	})
+
+	fmt.Println("Now server is running on port 8080")
+	fmt.Println("Test with Get      : curl -g 'http://localhost:8080/graphql?query={user(name:\"Dan\"){id,surname}}'")
+	fmt.Printf("Reload json file   : kill -SIGUSR1 %s\n", strconv.Itoa(os.Getpid()))
+	http.ListenAndServe(":8080", nil)
+}
+```

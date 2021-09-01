@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Empezando",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Examples": {
+    "message": "Ejemplos",
+    "description": "The label for category Examples in sidebar tutorialSidebar"
+  }
+}
