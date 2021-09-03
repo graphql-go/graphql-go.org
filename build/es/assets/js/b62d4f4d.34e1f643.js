@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7465],{9962:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/example-graphql-go/es/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/example-graphql-go/es/blog/tags/hola"}')}}]);

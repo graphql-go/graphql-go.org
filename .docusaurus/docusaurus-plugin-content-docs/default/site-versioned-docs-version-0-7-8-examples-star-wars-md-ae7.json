@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/star-wars",
+  "id": "version-0.7.8/Examples/star-wars",
+  "isDocsHomePage": false,
+  "title": "Star Wars",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/versioned_docs/version-0.7.8/Examples/star-wars.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/star-wars",
+  "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/star-wars",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.8/Examples/star-wars.md",
+  "version": "0.7.8",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "version-0.7.8/tutorialSidebar",
+  "previous": {
+    "title": "Modify Context",
+    "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/modify-context"
+  },
+  "next": {
+    "title": "Go GraphQL ToDo example",
+    "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/todo-example"
+  }
+}

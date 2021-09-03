@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/example-graphql-go/es/blog/welcome"
+    },
+    {
+      "title": "Hello",
+      "permalink": "/example-graphql-go/es/blog/hello-world"
+    },
+    {
+      "title": "Hola",
+      "permalink": "/example-graphql-go/es/blog/hola"
+    }
+  ]
+}

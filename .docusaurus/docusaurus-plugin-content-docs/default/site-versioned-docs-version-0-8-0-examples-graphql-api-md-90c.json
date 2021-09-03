@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/graphql-api",
+  "id": "version-0.8.0/Examples/graphql-api",
+  "isDocsHomePage": false,
+  "title": "GraphQL API",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/versioned_docs/version-0.8.0/Examples/graphql-api.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/graphql-api",
+  "permalink": "/example-graphql-go/es/docs/Examples/graphql-api",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.8.0/Examples/graphql-api.md",
+  "version": "0.8.0",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-0.8.0/tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/example-graphql-go/es/docs/tutorial-basics/Quick-Start"
+  },
+  "next": {
+    "title": "Concurrent Resolvers",
+    "permalink": "/example-graphql-go/es/docs/Examples/concurrent-resolvers"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/http-dynamic",
+  "id": "version-0.8.0/Examples/http-dynamic",
+  "isDocsHomePage": false,
+  "title": "HTTP Dynamic",
+  "description": "Basically, if we have data.json like this:",
+  "source": "@site/versioned_docs/version-0.8.0/Examples/http-dynamic.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/http-dynamic",
+  "permalink": "/example-graphql-go/es/docs/Examples/http-dynamic",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.8.0/Examples/http-dynamic.md",
+  "version": "0.8.0",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "version-0.8.0/tutorialSidebar",
+  "previous": {
+    "title": "HTTP",
+    "permalink": "/example-graphql-go/es/docs/Examples/http"
+  },
+  "next": {
+    "title": "Modify Context",
+    "permalink": "/example-graphql-go/es/docs/Examples/modify-context"
+  }
+}

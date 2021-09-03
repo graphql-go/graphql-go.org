@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/todo-example",
+  "id": "version-0.8.0/Examples/todo-example",
+  "isDocsHomePage": false,
+  "title": "Go GraphQL ToDo example",
+  "description": "An example that consists of basic core GraphQL queries and mutations.",
+  "source": "@site/versioned_docs/version-0.8.0/Examples/todo-example.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/todo-example",
+  "permalink": "/example-graphql-go/es/docs/Examples/todo-example",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.8.0/Examples/todo-example.md",
+  "version": "0.8.0",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "version-0.8.0/tutorialSidebar",
+  "previous": {
+    "title": "Star Wars",
+    "permalink": "/example-graphql-go/es/docs/Examples/star-wars"
+  },
+  "next": {
+    "title": "Subscription",
+    "permalink": "/example-graphql-go/es/docs/Examples/subscription"
+  }
+}

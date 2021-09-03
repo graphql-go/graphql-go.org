@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/context",
+  "id": "version-0.7.8/Examples/context",
+  "isDocsHomePage": false,
+  "title": "Context",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/versioned_docs/version-0.7.8/Examples/context.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/context",
+  "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/context",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.8/Examples/context.md",
+  "version": "0.7.8",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-0.7.8/tutorialSidebar",
+  "previous": {
+    "title": "Concurrent Resolvers",
+    "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/concurrent-resolvers"
+  },
+  "next": {
+    "title": "Go GraphQL CRUD Example",
+    "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/crud"
+  }
+}

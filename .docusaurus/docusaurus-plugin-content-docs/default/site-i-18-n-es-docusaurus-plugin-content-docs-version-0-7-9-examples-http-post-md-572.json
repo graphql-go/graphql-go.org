@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/http-post",
+  "id": "version-0.7.9/Examples/http-post",
+  "isDocsHomePage": false,
+  "title": "HTTP - Post",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/version-0.7.9/Examples/http-post.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/http-post",
+  "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/http-post",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/http-post.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "Hello World",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/hello-world"
+  },
+  "next": {
+    "title": "HTTP",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/http"
+  }
+}

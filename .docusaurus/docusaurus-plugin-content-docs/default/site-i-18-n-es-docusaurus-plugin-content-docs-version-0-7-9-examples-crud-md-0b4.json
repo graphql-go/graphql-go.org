@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/crud",
+  "id": "version-0.7.9/Examples/crud",
+  "isDocsHomePage": false,
+  "title": "Go GraphQL CRUD Example",
+  "description": "Implement create, read, update and delete on Go.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/version-0.7.9/Examples/crud.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/crud",
+  "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/crud",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/crud.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "Context",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/context"
+  },
+  "next": {
+    "title": "Custom Scalar Type",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/custom-scalar-type"
+  }
+}

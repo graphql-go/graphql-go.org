@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/star-wars",
+  "id": "version-0.8.0/Examples/star-wars",
+  "isDocsHomePage": false,
+  "title": "Star Wars",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/versioned_docs/version-0.8.0/Examples/star-wars.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/star-wars",
+  "permalink": "/example-graphql-go/es/docs/Examples/star-wars",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.8.0/Examples/star-wars.md",
+  "version": "0.8.0",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "version-0.8.0/tutorialSidebar",
+  "previous": {
+    "title": "Go GraphQL SQL null string example",
+    "permalink": "/example-graphql-go/es/docs/Examples/sql-nullstring"
+  },
+  "next": {
+    "title": "Go GraphQL ToDo example",
+    "permalink": "/example-graphql-go/es/docs/Examples/todo-example"
+  }
+}

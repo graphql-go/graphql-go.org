@@ -1,0 +1,30 @@
+{
+  "facebook": {
+    "allTagsPath": "/example-graphql-go/es/blog/tags",
+    "slug": "facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/example-graphql-go/es/blog/tags/facebook"
+  },
+  "hello": {
+    "allTagsPath": "/example-graphql-go/es/blog/tags",
+    "slug": "hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/example-graphql-go/es/blog/tags/hello"
+  },
+  "docusaurus": {
+    "allTagsPath": "/example-graphql-go/es/blog/tags",
+    "slug": "docusaurus",
+    "name": "docusaurus",
+    "count": 3,
+    "permalink": "/example-graphql-go/es/blog/tags/docusaurus"
+  },
+  "hola": {
+    "allTagsPath": "/example-graphql-go/es/blog/tags",
+    "slug": "hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/example-graphql-go/es/blog/tags/hola"
+  }
+}

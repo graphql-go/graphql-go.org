@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/custom-scalar-type",
+  "id": "version-0.7.8/Examples/custom-scalar-type",
+  "isDocsHomePage": false,
+  "title": "Custom Scalar Type",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/versioned_docs/version-0.7.8/Examples/custom-scalar-type.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/custom-scalar-type",
+  "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/custom-scalar-type",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.8/Examples/custom-scalar-type.md",
+  "version": "0.7.8",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "version-0.7.8/tutorialSidebar",
+  "previous": {
+    "title": "Go GraphQL CRUD Example",
+    "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/crud"
+  },
+  "next": {
+    "title": "Hello World",
+    "permalink": "/example-graphql-go/es/docs/0.7.8/Examples/hello-world"
+  }
+}

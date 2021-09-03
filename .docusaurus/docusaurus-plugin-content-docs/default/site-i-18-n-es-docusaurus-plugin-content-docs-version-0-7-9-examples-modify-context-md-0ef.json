@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/modify-context",
+  "id": "version-0.7.9/Examples/modify-context",
+  "isDocsHomePage": false,
+  "title": "Modify Context",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/version-0.7.9/Examples/modify-context.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/modify-context",
+  "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/modify-context",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/modify-context.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "HTTP Dynamic",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/http-dynamic"
+  },
+  "next": {
+    "title": "Go GraphQL SQL null string example",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/sql-nullstring"
+  }
+}

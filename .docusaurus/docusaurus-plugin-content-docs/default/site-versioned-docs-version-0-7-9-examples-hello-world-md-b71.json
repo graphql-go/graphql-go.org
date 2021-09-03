@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/hello-world",
+  "id": "version-0.7.9/Examples/hello-world",
+  "isDocsHomePage": false,
+  "title": "Hello World",
+  "description": "`go title=\"main.go\"",
+  "source": "@site/versioned_docs/version-0.7.9/Examples/hello-world.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/hello-world",
+  "permalink": "/example-graphql-go/docs/0.7.9/Examples/hello-world",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/hello-world.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "9/1/2021",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "Custom Scalar Type",
+    "permalink": "/example-graphql-go/docs/0.7.9/Examples/custom-scalar-type"
+  },
+  "next": {
+    "title": "HTTP - Post",
+    "permalink": "/example-graphql-go/docs/0.7.9/Examples/http-post"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "permalink": "/example-graphql-go/es/blog/hello-world",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/edit/tree/main/blog/blog/2019-05-29-hello-world.md",
+  "source": "@site/blog/2019-05-29-hello-world.md",
+  "title": "Hello",
+  "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+  "date": "2019-05-29T00:00:00.000Z",
+  "formattedDate": "29 de mayo de 2019",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/example-graphql-go/es/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/example-graphql-go/es/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.12,
+  "truncated": true,
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/example-graphql-go/es/blog/welcome"
+  },
+  "nextItem": {
+    "title": "Hola",
+    "permalink": "/example-graphql-go/es/blog/hola"
+  }
+}

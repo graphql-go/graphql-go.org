@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5514],{8398:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/example-graphql-go/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/example-graphql-go/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/sql-nullstring",
+  "id": "version-0.7.9/Examples/sql-nullstring",
+  "isDocsHomePage": false,
+  "title": "Go GraphQL SQL null string example",
+  "description": "database/sql Nullstring implementation, with JSON marshalling interfaces.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/version-0.7.9/Examples/sql-nullstring.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/sql-nullstring",
+  "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/sql-nullstring",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/sql-nullstring.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "Modify Context",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/modify-context"
+  },
+  "next": {
+    "title": "Star Wars",
+    "permalink": "/example-graphql-go/es/docs/0.7.9/Examples/star-wars"
+  }
+}

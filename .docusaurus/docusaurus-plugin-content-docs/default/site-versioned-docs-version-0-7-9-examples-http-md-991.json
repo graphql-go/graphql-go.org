@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Examples/http",
+  "id": "version-0.7.9/Examples/http",
+  "isDocsHomePage": false,
+  "title": "HTTP",
+  "description": "Data",
+  "source": "@site/versioned_docs/version-0.7.9/Examples/http.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/http",
+  "permalink": "/example-graphql-go/docs/0.7.9/Examples/http",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/http.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "9/1/2021",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "HTTP - Post",
+    "permalink": "/example-graphql-go/docs/0.7.9/Examples/http-post"
+  },
+  "next": {
+    "title": "HTTP Dynamic",
+    "permalink": "/example-graphql-go/docs/0.7.9/Examples/http-dynamic"
+  }
+}

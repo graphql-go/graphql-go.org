@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/Installation",
+  "id": "version-0.8.0/tutorial-basics/Installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "To install the library, run:",
+  "source": "@site/versioned_docs/version-0.8.0/tutorial-basics/Installation.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Installation",
+  "permalink": "/example-graphql-go/es/docs/tutorial-basics/Installation",
+  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.8.0/tutorial-basics/Installation.md",
+  "version": "0.8.0",
+  "lastUpdatedAt": 1630538788,
+  "formattedLastUpdatedAt": "1/9/2021",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-0.8.0/tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/example-graphql-go/es/docs/tutorial-basics/Overview"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/example-graphql-go/es/docs/tutorial-basics/Quick-Start"
+  }
+}
