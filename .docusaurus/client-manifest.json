@@ -114,6 +114,9 @@
     "237ac5d3": [
       5367
     ],
+    "27a224a5": [
+      2068
+    ],
     "2868cdab": [
       4061
     ],
@@ -135,8 +138,14 @@
     "434328f4": [
       52
     ],
+    "4816f297": [
+      2503
+    ],
     "48d0e610": [
       5454
+    ],
+    "4cb4ced1": [
+      9669
     ],
     "4f21bdaf": [
       7488
@@ -149,9 +158,6 @@
     ],
     "5eb33dce": [
       4030
-    ],
-    "658f9500": [
-      103
     ],
     "6875c492": [
       532,
@@ -174,9 +180,6 @@
     ],
     "720bb822": [
       1702
-    ],
-    "723a8abe": [
-      2446
     ],
     "732470f6": [
       6673
@@ -224,6 +227,9 @@
       8111,
       3089
     ],
+    "ac610320": [
+      5957
+    ],
     "ae731b22": [
       5883
     ],
@@ -238,9 +244,6 @@
     ],
     "b1d28ae8": [
       8441
-    ],
-    "b62d4f4d": [
-      7465
     ],
     "bdd709f1": [
       4694
@@ -267,20 +270,14 @@
       8111,
       6103
     ],
-    "ce0bd789": [
-      5538
-    ],
-    "d2306160": [
-      4595
-    ],
     "d610846f": [
       6176
     ],
+    "d6f5399c": [
+      8594
+    ],
     "d973021e": [
       8970
-    ],
-    "d9a093c4": [
-      2884
     ],
     "e6d076cf": [
       2833
@@ -306,6 +303,9 @@
     "f310019d": [
       3643
     ],
+    "fb8c225d": [
+      4683
+    ],
     "styles": [
       179,
       1303,
@@ -328,54 +328,45 @@
     "52": {
       "js": [
         {
-          "file": "assets/js/434328f4.b3547f1d.js",
-          "hash": "63dbf6d3f4260907565e",
-          "publicPath": "/example-graphql-go/es/assets/js/434328f4.b3547f1d.js"
-        }
-      ]
-    },
-    "103": {
-      "js": [
-        {
-          "file": "assets/js/658f9500.45838dd2.js",
-          "hash": "e2179e547723c8038494",
-          "publicPath": "/example-graphql-go/es/assets/js/658f9500.45838dd2.js"
+          "file": "assets/js/434328f4.2621bdcb.js",
+          "hash": "046d1ab60a1616123682",
+          "publicPath": "/graphql-go.org/es/assets/js/434328f4.2621bdcb.js"
         }
       ]
     },
     "105": {
       "js": [
         {
-          "file": "assets/js/13a73e24.96eb4f2f.js",
-          "hash": "aa97815fd8677f1c1882",
-          "publicPath": "/example-graphql-go/es/assets/js/13a73e24.96eb4f2f.js"
+          "file": "assets/js/13a73e24.dd04cc7a.js",
+          "hash": "ac82e91afcb91e83ecd3",
+          "publicPath": "/graphql-go.org/es/assets/js/13a73e24.dd04cc7a.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.6266edff.js",
-          "hash": "1eb4172c22d2976eca3f",
-          "publicPath": "/example-graphql-go/es/assets/js/main.6266edff.js"
+          "file": "assets/js/main.9e210380.js",
+          "hash": "f78ada838d221b98086f",
+          "publicPath": "/graphql-go.org/es/assets/js/main.9e210380.js"
         }
       ]
     },
     "357": {
       "js": [
         {
-          "file": "assets/js/7edda983.cb735ebf.js",
-          "hash": "65f838c7256c8a22fdd5",
-          "publicPath": "/example-graphql-go/es/assets/js/7edda983.cb735ebf.js"
+          "file": "assets/js/7edda983.543cb897.js",
+          "hash": "1709042a4459cd139e14",
+          "publicPath": "/graphql-go.org/es/assets/js/7edda983.543cb897.js"
         }
       ]
     },
     "450": {
       "js": [
         {
-          "file": "assets/js/51433da1.a703e5a6.js",
-          "hash": "e6e7e3ea711bf227a885",
-          "publicPath": "/example-graphql-go/es/assets/js/51433da1.a703e5a6.js"
+          "file": "assets/js/51433da1.1e5a1a47.js",
+          "hash": "86be5ce6e9426e452325",
+          "publicPath": "/graphql-go.org/es/assets/js/51433da1.1e5a1a47.js"
         }
       ]
     },
@@ -384,160 +375,160 @@
         {
           "file": "assets/css/styles.b9223a2a.css",
           "hash": "5c1912f19149f828b46f",
-          "publicPath": "/example-graphql-go/es/assets/css/styles.b9223a2a.css"
+          "publicPath": "/graphql-go.org/es/assets/css/styles.b9223a2a.css"
         }
       ]
     },
     "808": {
       "js": [
         {
-          "file": "assets/js/9630d407.5131030b.js",
-          "hash": "f8e9b955ef451fccf344",
-          "publicPath": "/example-graphql-go/es/assets/js/9630d407.5131030b.js"
+          "file": "assets/js/9630d407.08fe55e4.js",
+          "hash": "2bf55c195ebd4ce02928",
+          "publicPath": "/graphql-go.org/es/assets/js/9630d407.08fe55e4.js"
         }
       ]
     },
     "1080": {
       "js": [
         {
-          "file": "assets/js/f0c022c1.b80e9187.js",
-          "hash": "467e6a75f8346956bb6e",
-          "publicPath": "/example-graphql-go/es/assets/js/f0c022c1.b80e9187.js"
+          "file": "assets/js/f0c022c1.78ebba9c.js",
+          "hash": "0d627206ec5cbf8d7ba1",
+          "publicPath": "/graphql-go.org/es/assets/js/f0c022c1.78ebba9c.js"
         }
       ]
     },
     "1224": {
       "js": [
         {
-          "file": "assets/js/b1821eea.3cb4fdf7.js",
-          "hash": "051206084a469ce86ca5",
-          "publicPath": "/example-graphql-go/es/assets/js/b1821eea.3cb4fdf7.js"
+          "file": "assets/js/b1821eea.ba31f05d.js",
+          "hash": "5dfc501ca1531b23324d",
+          "publicPath": "/graphql-go.org/es/assets/js/b1821eea.ba31f05d.js"
         }
       ]
     },
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.181ebf4e.js",
-          "hash": "0abda4cf5411ede8e75e",
-          "publicPath": "/example-graphql-go/es/assets/js/runtime~main.181ebf4e.js"
+          "file": "assets/js/runtime~main.d9fa9925.js",
+          "hash": "4207eb04ee6e026d1299",
+          "publicPath": "/graphql-go.org/es/assets/js/runtime~main.d9fa9925.js"
         }
       ]
     },
     "1449": {
       "js": [
         {
-          "file": "assets/js/af172acd.7b9eb1fd.js",
-          "hash": "beca0245a85f636c6a48",
-          "publicPath": "/example-graphql-go/es/assets/js/af172acd.7b9eb1fd.js"
+          "file": "assets/js/af172acd.cb1c3ea9.js",
+          "hash": "a318c4e8c917dd7b3056",
+          "publicPath": "/graphql-go.org/es/assets/js/af172acd.cb1c3ea9.js"
         }
       ]
     },
     "1451": {
       "js": [
         {
-          "file": "assets/js/eb09cd18.d5f02d90.js",
-          "hash": "2a11fbd0fadaa324e0d1",
-          "publicPath": "/example-graphql-go/es/assets/js/eb09cd18.d5f02d90.js"
+          "file": "assets/js/eb09cd18.42fd60cb.js",
+          "hash": "738be4d9e5e502400c1c",
+          "publicPath": "/graphql-go.org/es/assets/js/eb09cd18.42fd60cb.js"
         }
       ]
     },
     "1702": {
       "js": [
         {
-          "file": "assets/js/720bb822.486a632e.js",
-          "hash": "8de8df2d4b26cc640c01",
-          "publicPath": "/example-graphql-go/es/assets/js/720bb822.486a632e.js"
+          "file": "assets/js/720bb822.376f36c3.js",
+          "hash": "713a67e8da05243f7fb3",
+          "publicPath": "/graphql-go.org/es/assets/js/720bb822.376f36c3.js"
         }
       ]
     },
     "1818": {
       "js": [
         {
-          "file": "assets/js/865260f1.48b1822e.js",
-          "hash": "a625820c70698eef1322",
-          "publicPath": "/example-graphql-go/es/assets/js/865260f1.48b1822e.js"
+          "file": "assets/js/865260f1.762dd969.js",
+          "hash": "ab9672d6614c7d666deb",
+          "publicPath": "/graphql-go.org/es/assets/js/865260f1.762dd969.js"
+        }
+      ]
+    },
+    "2068": {
+      "js": [
+        {
+          "file": "assets/js/27a224a5.dd4e78e3.js",
+          "hash": "70b90b1c4c7ec8cf9631",
+          "publicPath": "/graphql-go.org/es/assets/js/27a224a5.dd4e78e3.js"
         }
       ]
     },
     "2327": {
       "js": [
         {
-          "file": "assets/js/6c9a4677.c2aec6c4.js",
-          "hash": "9c9ec682a13649926573",
-          "publicPath": "/example-graphql-go/es/assets/js/6c9a4677.c2aec6c4.js"
+          "file": "assets/js/6c9a4677.19f6eb1d.js",
+          "hash": "474eb930910020274614",
+          "publicPath": "/graphql-go.org/es/assets/js/6c9a4677.19f6eb1d.js"
         }
       ]
     },
-    "2446": {
+    "2503": {
       "js": [
         {
-          "file": "assets/js/723a8abe.62b9ccb8.js",
-          "hash": "764c4bac22c8ad371fa3",
-          "publicPath": "/example-graphql-go/es/assets/js/723a8abe.62b9ccb8.js"
+          "file": "assets/js/4816f297.d3a30e27.js",
+          "hash": "b3d6e24825bceab55095",
+          "publicPath": "/graphql-go.org/es/assets/js/4816f297.d3a30e27.js"
         }
       ]
     },
     "2535": {
       "js": [
         {
-          "file": "assets/js/814f3328.8e480c1d.js",
-          "hash": "996c2729646d50176fa7",
-          "publicPath": "/example-graphql-go/es/assets/js/814f3328.8e480c1d.js"
+          "file": "assets/js/814f3328.d8b1b647.js",
+          "hash": "261f041a8cabd16f7942",
+          "publicPath": "/graphql-go.org/es/assets/js/814f3328.d8b1b647.js"
         }
       ]
     },
     "2833": {
       "js": [
         {
-          "file": "assets/js/e6d076cf.04ec6009.js",
-          "hash": "1c9e9af46f438e047e7b",
-          "publicPath": "/example-graphql-go/es/assets/js/e6d076cf.04ec6009.js"
+          "file": "assets/js/e6d076cf.d716d6bd.js",
+          "hash": "e9ee5c8b310c45773a17",
+          "publicPath": "/graphql-go.org/es/assets/js/e6d076cf.d716d6bd.js"
         }
       ]
     },
     "2875": {
       "js": [
         {
-          "file": "assets/js/0da4f1d2.15214cad.js",
-          "hash": "986ab09de5654ed139db",
-          "publicPath": "/example-graphql-go/es/assets/js/0da4f1d2.15214cad.js"
-        }
-      ]
-    },
-    "2884": {
-      "js": [
-        {
-          "file": "assets/js/d9a093c4.0882de5c.js",
-          "hash": "9962efb7b0371e7215b9",
-          "publicPath": "/example-graphql-go/es/assets/js/d9a093c4.0882de5c.js"
+          "file": "assets/js/0da4f1d2.385d23b1.js",
+          "hash": "d3023c36f5e68b447418",
+          "publicPath": "/graphql-go.org/es/assets/js/0da4f1d2.385d23b1.js"
         }
       ]
     },
     "2930": {
       "js": [
         {
-          "file": "assets/js/0b43df9b.cf97f07d.js",
-          "hash": "36d067324eba5c6c8579",
-          "publicPath": "/example-graphql-go/es/assets/js/0b43df9b.cf97f07d.js"
+          "file": "assets/js/0b43df9b.b8ec2178.js",
+          "hash": "6495f7708bccf16f93d8",
+          "publicPath": "/graphql-go.org/es/assets/js/0b43df9b.b8ec2178.js"
         }
       ]
     },
     "3049": {
       "js": [
         {
-          "file": "assets/js/03caa7d4.566ba764.js",
-          "hash": "2b4ac3a6aea72f4c2196",
-          "publicPath": "/example-graphql-go/es/assets/js/03caa7d4.566ba764.js"
+          "file": "assets/js/03caa7d4.12924c7d.js",
+          "hash": "b7febd9e22768e9232aa",
+          "publicPath": "/graphql-go.org/es/assets/js/03caa7d4.12924c7d.js"
         }
       ]
     },
     "3061": {
       "js": [
         {
-          "file": "assets/js/9f8e37da.2f78d2a0.js",
-          "hash": "68d5be357d4153d92ca8",
-          "publicPath": "/example-graphql-go/es/assets/js/9f8e37da.2f78d2a0.js"
+          "file": "assets/js/9f8e37da.9f78aeb5.js",
+          "hash": "44c25550a9eb70e3b2fd",
+          "publicPath": "/graphql-go.org/es/assets/js/9f8e37da.9f78aeb5.js"
         }
       ]
     },
@@ -546,7 +537,7 @@
         {
           "file": "assets/js/1f391b9e.37aedfec.js",
           "hash": "84ab1622aaa681ee3a62",
-          "publicPath": "/example-graphql-go/es/assets/js/1f391b9e.37aedfec.js"
+          "publicPath": "/graphql-go.org/es/assets/js/1f391b9e.37aedfec.js"
         }
       ]
     },
@@ -555,52 +546,52 @@
         {
           "file": "assets/js/a6aa9e1f.5de3ec3c.js",
           "hash": "3d09be441104387d7929",
-          "publicPath": "/example-graphql-go/es/assets/js/a6aa9e1f.5de3ec3c.js"
+          "publicPath": "/graphql-go.org/es/assets/js/a6aa9e1f.5de3ec3c.js"
         }
       ]
     },
     "3418": {
       "js": [
         {
-          "file": "assets/js/0efad864.4cc85ae7.js",
-          "hash": "472d32f03c62627a56bd",
-          "publicPath": "/example-graphql-go/es/assets/js/0efad864.4cc85ae7.js"
+          "file": "assets/js/0efad864.b87e7bab.js",
+          "hash": "491b75c15d4b333cad4a",
+          "publicPath": "/graphql-go.org/es/assets/js/0efad864.b87e7bab.js"
         }
       ]
     },
     "3643": {
       "js": [
         {
-          "file": "assets/js/f310019d.d1081baf.js",
-          "hash": "933c19ee87683e817d0d",
-          "publicPath": "/example-graphql-go/es/assets/js/f310019d.d1081baf.js"
+          "file": "assets/js/f310019d.79c0f188.js",
+          "hash": "81316c2a5e0cbf5868a4",
+          "publicPath": "/graphql-go.org/es/assets/js/f310019d.79c0f188.js"
         }
       ]
     },
     "3707": {
       "js": [
         {
-          "file": "assets/js/3570154c.61fb7cfb.js",
-          "hash": "6932665c1a810dd2f5fd",
-          "publicPath": "/example-graphql-go/es/assets/js/3570154c.61fb7cfb.js"
+          "file": "assets/js/3570154c.110510b5.js",
+          "hash": "88ee8fc61c26845fb02a",
+          "publicPath": "/graphql-go.org/es/assets/js/3570154c.110510b5.js"
         }
       ]
     },
     "3876": {
       "js": [
         {
-          "file": "assets/js/3c1014d9.8f4f4f7d.js",
-          "hash": "6d65c65757ef630282b0",
-          "publicPath": "/example-graphql-go/es/assets/js/3c1014d9.8f4f4f7d.js"
+          "file": "assets/js/3c1014d9.efa3ffd4.js",
+          "hash": "1dbeb8a1b670fff3070f",
+          "publicPath": "/graphql-go.org/es/assets/js/3c1014d9.efa3ffd4.js"
         }
       ]
     },
     "3986": {
       "js": [
         {
-          "file": "assets/js/ca9e6dc9.61ddb259.js",
-          "hash": "03badb931fa801364b58",
-          "publicPath": "/example-graphql-go/es/assets/js/ca9e6dc9.61ddb259.js"
+          "file": "assets/js/ca9e6dc9.770da499.js",
+          "hash": "af4a281da5641ac26635",
+          "publicPath": "/graphql-go.org/es/assets/js/ca9e6dc9.770da499.js"
         }
       ]
     },
@@ -609,52 +600,52 @@
         {
           "file": "assets/js/01a85c17.5df31698.js",
           "hash": "ec49c8199d82a38b08cf",
-          "publicPath": "/example-graphql-go/es/assets/js/01a85c17.5df31698.js"
+          "publicPath": "/graphql-go.org/es/assets/js/01a85c17.5df31698.js"
         }
       ]
     },
     "4030": {
       "js": [
         {
-          "file": "assets/js/5eb33dce.df4db904.js",
-          "hash": "bbed4bf20e2d96961e25",
-          "publicPath": "/example-graphql-go/es/assets/js/5eb33dce.df4db904.js"
+          "file": "assets/js/5eb33dce.91a66e1d.js",
+          "hash": "a4d4bb6c75b262f805e8",
+          "publicPath": "/graphql-go.org/es/assets/js/5eb33dce.91a66e1d.js"
         }
       ]
     },
     "4035": {
       "js": [
         {
-          "file": "assets/js/8e9f0a8a.f1868db0.js",
-          "hash": "d6549fc01adce780a16d",
-          "publicPath": "/example-graphql-go/es/assets/js/8e9f0a8a.f1868db0.js"
+          "file": "assets/js/8e9f0a8a.177e3590.js",
+          "hash": "be0e995004d9bab169ac",
+          "publicPath": "/graphql-go.org/es/assets/js/8e9f0a8a.177e3590.js"
         }
       ]
     },
     "4061": {
       "js": [
         {
-          "file": "assets/js/2868cdab.05b2fecc.js",
-          "hash": "cb78f8c48cb10d759e50",
-          "publicPath": "/example-graphql-go/es/assets/js/2868cdab.05b2fecc.js"
+          "file": "assets/js/2868cdab.4b67b7f2.js",
+          "hash": "63e885d89e27ff31e578",
+          "publicPath": "/graphql-go.org/es/assets/js/2868cdab.4b67b7f2.js"
         }
       ]
     },
     "4149": {
       "js": [
         {
-          "file": "assets/js/f1a3f642.122965e6.js",
-          "hash": "1b6016e0fee3e01c80ad",
-          "publicPath": "/example-graphql-go/es/assets/js/f1a3f642.122965e6.js"
+          "file": "assets/js/f1a3f642.6a98473d.js",
+          "hash": "2ae31d563b25ee4f0efa",
+          "publicPath": "/graphql-go.org/es/assets/js/f1a3f642.6a98473d.js"
         }
       ]
     },
     "4190": {
       "js": [
         {
-          "file": "assets/js/b195587d.fed464ee.js",
-          "hash": "5a96f4f930e4d2fcfa93",
-          "publicPath": "/example-graphql-go/es/assets/js/b195587d.fed464ee.js"
+          "file": "assets/js/b195587d.b4d3e015.js",
+          "hash": "8ba1a27af7952a32e6f2",
+          "publicPath": "/graphql-go.org/es/assets/js/b195587d.b4d3e015.js"
         }
       ]
     },
@@ -663,16 +654,7 @@
         {
           "file": "assets/js/c4f5d8e4.04bc3eaf.js",
           "hash": "8bbe77defd616ef49715",
-          "publicPath": "/example-graphql-go/es/assets/js/c4f5d8e4.04bc3eaf.js"
-        }
-      ]
-    },
-    "4595": {
-      "js": [
-        {
-          "file": "assets/js/d2306160.a2ab0039.js",
-          "hash": "999e1621ffe88c4ea40e",
-          "publicPath": "/example-graphql-go/es/assets/js/d2306160.a2ab0039.js"
+          "publicPath": "/graphql-go.org/es/assets/js/c4f5d8e4.04bc3eaf.js"
         }
       ]
     },
@@ -681,57 +663,66 @@
         {
           "file": "assets/js/4608.02f6827f.js",
           "hash": "7a9f720ed9d78439840a",
-          "publicPath": "/example-graphql-go/es/assets/js/4608.02f6827f.js"
+          "publicPath": "/graphql-go.org/es/assets/js/4608.02f6827f.js"
         },
         {
           "file": "assets/js/1be78505.415f5935.js",
           "hash": "9f12c3e91ce611defcc9",
-          "publicPath": "/example-graphql-go/es/assets/js/1be78505.415f5935.js"
+          "publicPath": "/graphql-go.org/es/assets/js/1be78505.415f5935.js"
+        }
+      ]
+    },
+    "4683": {
+      "js": [
+        {
+          "file": "assets/js/fb8c225d.c6f31b0a.js",
+          "hash": "33d0ce6ccf1430db19a2",
+          "publicPath": "/graphql-go.org/es/assets/js/fb8c225d.c6f31b0a.js"
         }
       ]
     },
     "4694": {
       "js": [
         {
-          "file": "assets/js/bdd709f1.94716ada.js",
-          "hash": "e00ce35fe689ca9fead3",
-          "publicPath": "/example-graphql-go/es/assets/js/bdd709f1.94716ada.js"
+          "file": "assets/js/bdd709f1.320acca4.js",
+          "hash": "fa4b315ab670e0e0faf6",
+          "publicPath": "/graphql-go.org/es/assets/js/bdd709f1.320acca4.js"
         }
       ]
     },
     "4719": {
       "js": [
         {
-          "file": "assets/js/c2b042fd.89b798f2.js",
-          "hash": "2eed0db68d01e7477e7d",
-          "publicPath": "/example-graphql-go/es/assets/js/c2b042fd.89b798f2.js"
+          "file": "assets/js/c2b042fd.0a155be4.js",
+          "hash": "f22d915064451dc60e56",
+          "publicPath": "/graphql-go.org/es/assets/js/c2b042fd.0a155be4.js"
         }
       ]
     },
     "5246": {
       "js": [
         {
-          "file": "assets/js/08446aae.154a171b.js",
-          "hash": "8d282de2218f48732414",
-          "publicPath": "/example-graphql-go/es/assets/js/08446aae.154a171b.js"
+          "file": "assets/js/08446aae.33b9c789.js",
+          "hash": "469a67627c4059c2f01a",
+          "publicPath": "/graphql-go.org/es/assets/js/08446aae.33b9c789.js"
         }
       ]
     },
     "5367": {
       "js": [
         {
-          "file": "assets/js/237ac5d3.504b810c.js",
-          "hash": "68d0c89cb1c1e2af4f06",
-          "publicPath": "/example-graphql-go/es/assets/js/237ac5d3.504b810c.js"
+          "file": "assets/js/237ac5d3.fd7d727b.js",
+          "hash": "57b413170317bd2b3536",
+          "publicPath": "/graphql-go.org/es/assets/js/237ac5d3.fd7d727b.js"
         }
       ]
     },
     "5454": {
       "js": [
         {
-          "file": "assets/js/48d0e610.3c08dcf0.js",
-          "hash": "5e55c272fea8fc06cdfb",
-          "publicPath": "/example-graphql-go/es/assets/js/48d0e610.3c08dcf0.js"
+          "file": "assets/js/48d0e610.5e6a2f41.js",
+          "hash": "4894c2c27f8208473e3f",
+          "publicPath": "/graphql-go.org/es/assets/js/48d0e610.5e6a2f41.js"
         }
       ]
     },
@@ -740,25 +731,25 @@
         {
           "file": "assets/js/5486.6a4db4dc.js",
           "hash": "6f6d730849aa24241ad5",
-          "publicPath": "/example-graphql-go/es/assets/js/5486.6a4db4dc.js"
-        }
-      ]
-    },
-    "5538": {
-      "js": [
-        {
-          "file": "assets/js/ce0bd789.25f62650.js",
-          "hash": "e807ba130d78d1639458",
-          "publicPath": "/example-graphql-go/es/assets/js/ce0bd789.25f62650.js"
+          "publicPath": "/graphql-go.org/es/assets/js/5486.6a4db4dc.js"
         }
       ]
     },
     "5883": {
       "js": [
         {
-          "file": "assets/js/ae731b22.5bd0b0dd.js",
-          "hash": "cc5d87f93a40f8c2ffaf",
-          "publicPath": "/example-graphql-go/es/assets/js/ae731b22.5bd0b0dd.js"
+          "file": "assets/js/ae731b22.179fe95d.js",
+          "hash": "f9f816022a229a7317ab",
+          "publicPath": "/graphql-go.org/es/assets/js/ae731b22.179fe95d.js"
+        }
+      ]
+    },
+    "5957": {
+      "js": [
+        {
+          "file": "assets/js/ac610320.05bdef81.js",
+          "hash": "571a886f750ffeb6dfb4",
+          "publicPath": "/graphql-go.org/es/assets/js/ac610320.05bdef81.js"
         }
       ]
     },
@@ -767,7 +758,7 @@
         {
           "file": "assets/js/6016.a46dc2dd.js",
           "hash": "0c21596d5206e0672a32",
-          "publicPath": "/example-graphql-go/es/assets/js/6016.a46dc2dd.js"
+          "publicPath": "/graphql-go.org/es/assets/js/6016.a46dc2dd.js"
         }
       ]
     },
@@ -776,133 +767,124 @@
         {
           "file": "assets/js/ccc49370.a24207bc.js",
           "hash": "c5656a5a74cbd24144f9",
-          "publicPath": "/example-graphql-go/es/assets/js/ccc49370.a24207bc.js"
+          "publicPath": "/graphql-go.org/es/assets/js/ccc49370.a24207bc.js"
         }
       ]
     },
     "6176": {
       "js": [
         {
-          "file": "assets/js/d610846f.326a7040.js",
-          "hash": "a481b55dc9054267ccba",
-          "publicPath": "/example-graphql-go/es/assets/js/d610846f.326a7040.js"
+          "file": "assets/js/d610846f.e7ed9c47.js",
+          "hash": "b988ced536d0eff52bdd",
+          "publicPath": "/graphql-go.org/es/assets/js/d610846f.e7ed9c47.js"
         }
       ]
     },
     "6326": {
       "js": [
         {
-          "file": "assets/js/11975983.25d4c24e.js",
-          "hash": "f5b03cdc4fdd171081b4",
-          "publicPath": "/example-graphql-go/es/assets/js/11975983.25d4c24e.js"
+          "file": "assets/js/11975983.eb7eb3a3.js",
+          "hash": "547f8aa87b9fc94f0e41",
+          "publicPath": "/graphql-go.org/es/assets/js/11975983.eb7eb3a3.js"
         }
       ]
     },
     "6342": {
       "js": [
         {
-          "file": "assets/js/6be3a444.b2acf0d1.js",
-          "hash": "5501ae601b512bd62f8e",
-          "publicPath": "/example-graphql-go/es/assets/js/6be3a444.b2acf0d1.js"
+          "file": "assets/js/6be3a444.9f7194f3.js",
+          "hash": "a84e9565a125e62fbb0f",
+          "publicPath": "/graphql-go.org/es/assets/js/6be3a444.9f7194f3.js"
         }
       ]
     },
     "6373": {
       "js": [
         {
-          "file": "assets/js/98d357da.118b3932.js",
-          "hash": "4f504794afeb40907db3",
-          "publicPath": "/example-graphql-go/es/assets/js/98d357da.118b3932.js"
+          "file": "assets/js/98d357da.0feeca93.js",
+          "hash": "c043fa0e41ac0cd884c5",
+          "publicPath": "/graphql-go.org/es/assets/js/98d357da.0feeca93.js"
         }
       ]
     },
     "6570": {
       "js": [
         {
-          "file": "assets/js/e9636d49.a62dc195.js",
-          "hash": "d374600c9328cf4674af",
-          "publicPath": "/example-graphql-go/es/assets/js/e9636d49.a62dc195.js"
+          "file": "assets/js/e9636d49.01200b54.js",
+          "hash": "b6c437655fe2ab758eb7",
+          "publicPath": "/graphql-go.org/es/assets/js/e9636d49.01200b54.js"
         }
       ]
     },
     "6673": {
       "js": [
         {
-          "file": "assets/js/732470f6.7a7813eb.js",
-          "hash": "48d4350929ff72c2cbf3",
-          "publicPath": "/example-graphql-go/es/assets/js/732470f6.7a7813eb.js"
+          "file": "assets/js/732470f6.4afb475c.js",
+          "hash": "ead8ece79e0dc6cc2bba",
+          "publicPath": "/graphql-go.org/es/assets/js/732470f6.4afb475c.js"
         }
       ]
     },
     "6729": {
       "js": [
         {
-          "file": "assets/js/6a42c4f1.37354631.js",
-          "hash": "ac6be73341e1b6844095",
-          "publicPath": "/example-graphql-go/es/assets/js/6a42c4f1.37354631.js"
+          "file": "assets/js/6a42c4f1.5845af69.js",
+          "hash": "a761fecd6f96089cbab3",
+          "publicPath": "/graphql-go.org/es/assets/js/6a42c4f1.5845af69.js"
         }
       ]
     },
     "7394": {
       "js": [
         {
-          "file": "assets/js/2e870d34.29135bf5.js",
-          "hash": "5a2e7a7f96a503bf82a2",
-          "publicPath": "/example-graphql-go/es/assets/js/2e870d34.29135bf5.js"
+          "file": "assets/js/2e870d34.14256a37.js",
+          "hash": "b1949719e42b89e5df5b",
+          "publicPath": "/graphql-go.org/es/assets/js/2e870d34.14256a37.js"
         }
       ]
     },
     "7414": {
       "js": [
         {
-          "file": "assets/js/393be207.5bbf6086.js",
-          "hash": "cba233020cd13256d79d",
-          "publicPath": "/example-graphql-go/es/assets/js/393be207.5bbf6086.js"
-        }
-      ]
-    },
-    "7465": {
-      "js": [
-        {
-          "file": "assets/js/b62d4f4d.34e1f643.js",
-          "hash": "f615451159a55e0a19e4",
-          "publicPath": "/example-graphql-go/es/assets/js/b62d4f4d.34e1f643.js"
+          "file": "assets/js/393be207.af617df7.js",
+          "hash": "31503b683e6bada811f7",
+          "publicPath": "/graphql-go.org/es/assets/js/393be207.af617df7.js"
         }
       ]
     },
     "7488": {
       "js": [
         {
-          "file": "assets/js/4f21bdaf.cd471f0c.js",
-          "hash": "cc2eeaf2afb0b6029933",
-          "publicPath": "/example-graphql-go/es/assets/js/4f21bdaf.cd471f0c.js"
+          "file": "assets/js/4f21bdaf.cb5372d0.js",
+          "hash": "df7d13aa8144fd8eaad6",
+          "publicPath": "/graphql-go.org/es/assets/js/4f21bdaf.cb5372d0.js"
         }
       ]
     },
     "7599": {
       "js": [
         {
-          "file": "assets/js/31a0404d.db82467e.js",
-          "hash": "adf31f90ece7ed690f7e",
-          "publicPath": "/example-graphql-go/es/assets/js/31a0404d.db82467e.js"
+          "file": "assets/js/31a0404d.5b521006.js",
+          "hash": "e18c3849e5b5cfbde20c",
+          "publicPath": "/graphql-go.org/es/assets/js/31a0404d.5b521006.js"
         }
       ]
     },
     "7676": {
       "js": [
         {
-          "file": "assets/js/9888240d.d51ca2fa.js",
-          "hash": "91f7410bc8daaa52fed5",
-          "publicPath": "/example-graphql-go/es/assets/js/9888240d.d51ca2fa.js"
+          "file": "assets/js/9888240d.7903aecc.js",
+          "hash": "c9f37eb4d1c40f9ee332",
+          "publicPath": "/graphql-go.org/es/assets/js/9888240d.7903aecc.js"
         }
       ]
     },
     "7713": {
       "js": [
         {
-          "file": "assets/js/90cee422.ff98115f.js",
-          "hash": "8566c2c20b008523776b",
-          "publicPath": "/example-graphql-go/es/assets/js/90cee422.ff98115f.js"
+          "file": "assets/js/90cee422.c459ad5a.js",
+          "hash": "333a8e077ced12f67789",
+          "publicPath": "/graphql-go.org/es/assets/js/90cee422.c459ad5a.js"
         }
       ]
     },
@@ -911,7 +893,7 @@
         {
           "file": "assets/js/17896441.299e7fb7.js",
           "hash": "34535aabcc9bf57c14b7",
-          "publicPath": "/example-graphql-go/es/assets/js/17896441.299e7fb7.js"
+          "publicPath": "/graphql-go.org/es/assets/js/17896441.299e7fb7.js"
         }
       ]
     },
@@ -920,25 +902,34 @@
         {
           "file": "assets/js/8111.7cdcc759.js",
           "hash": "bba5e8f93be20520feba",
-          "publicPath": "/example-graphql-go/es/assets/js/8111.7cdcc759.js"
+          "publicPath": "/graphql-go.org/es/assets/js/8111.7cdcc759.js"
         }
       ]
     },
     "8183": {
       "js": [
         {
-          "file": "assets/js/6900e51d.39f8012a.js",
-          "hash": "e44acf8535755b6cb231",
-          "publicPath": "/example-graphql-go/es/assets/js/6900e51d.39f8012a.js"
+          "file": "assets/js/6900e51d.1f597824.js",
+          "hash": "cee17e8b42d1ffb3e877",
+          "publicPath": "/graphql-go.org/es/assets/js/6900e51d.1f597824.js"
         }
       ]
     },
     "8441": {
       "js": [
         {
-          "file": "assets/js/b1d28ae8.db1c2735.js",
-          "hash": "3d8d147f409ea8f80985",
-          "publicPath": "/example-graphql-go/es/assets/js/b1d28ae8.db1c2735.js"
+          "file": "assets/js/b1d28ae8.1c89a202.js",
+          "hash": "faab30dcc7c6381cdff5",
+          "publicPath": "/graphql-go.org/es/assets/js/b1d28ae8.1c89a202.js"
+        }
+      ]
+    },
+    "8594": {
+      "js": [
+        {
+          "file": "assets/js/d6f5399c.4e80c360.js",
+          "hash": "db3cbee31020590cd5f8",
+          "publicPath": "/graphql-go.org/es/assets/js/d6f5399c.4e80c360.js"
         }
       ]
     },
@@ -947,97 +938,106 @@
         {
           "file": "assets/js/6875c492.69bb9c8d.js",
           "hash": "8cf48c8f83dcbc6a8cda",
-          "publicPath": "/example-graphql-go/es/assets/js/6875c492.69bb9c8d.js"
+          "publicPath": "/graphql-go.org/es/assets/js/6875c492.69bb9c8d.js"
         }
       ]
     },
     "8823": {
       "js": [
         {
-          "file": "assets/js/f30a5d65.2289775f.js",
-          "hash": "f61ddea2496a241cd756",
-          "publicPath": "/example-graphql-go/es/assets/js/f30a5d65.2289775f.js"
+          "file": "assets/js/f30a5d65.6788fa0a.js",
+          "hash": "d21dd8169e2ff94ea2ab",
+          "publicPath": "/graphql-go.org/es/assets/js/f30a5d65.6788fa0a.js"
         }
       ]
     },
     "8970": {
       "js": [
         {
-          "file": "assets/js/d973021e.17bedfd3.js",
-          "hash": "1ac9cdd73201624800a9",
-          "publicPath": "/example-graphql-go/es/assets/js/d973021e.17bedfd3.js"
+          "file": "assets/js/d973021e.a3172162.js",
+          "hash": "9b019107b4dd424fcdb8",
+          "publicPath": "/graphql-go.org/es/assets/js/d973021e.a3172162.js"
         }
       ]
     },
     "9133": {
       "js": [
         {
-          "file": "assets/js/45120849.3796e215.js",
-          "hash": "22c6abbdd797bc582594",
-          "publicPath": "/example-graphql-go/es/assets/js/45120849.3796e215.js"
+          "file": "assets/js/45120849.0f46103d.js",
+          "hash": "ec65beb27c4520e88082",
+          "publicPath": "/graphql-go.org/es/assets/js/45120849.0f46103d.js"
         }
       ]
     },
     "9237": {
       "js": [
         {
-          "file": "assets/js/97e3f704.bd571cfa.js",
-          "hash": "572c63518f4d9b829657",
-          "publicPath": "/example-graphql-go/es/assets/js/97e3f704.bd571cfa.js"
+          "file": "assets/js/97e3f704.06d367bb.js",
+          "hash": "85ea4f932f85b8c5ed2d",
+          "publicPath": "/graphql-go.org/es/assets/js/97e3f704.06d367bb.js"
         }
       ]
     },
     "9313": {
       "js": [
         {
-          "file": "assets/js/9f81b4ec.bf725b35.js",
-          "hash": "1c6c16ab0d0e4352a30d",
-          "publicPath": "/example-graphql-go/es/assets/js/9f81b4ec.bf725b35.js"
+          "file": "assets/js/9f81b4ec.ae43efe1.js",
+          "hash": "cdb125032f1edbcce185",
+          "publicPath": "/graphql-go.org/es/assets/js/9f81b4ec.ae43efe1.js"
         }
       ]
     },
     "9433": {
       "js": [
         {
-          "file": "assets/js/ebc8d2c5.a8c880cf.js",
-          "hash": "fcc33bbd8edbe6dfe865",
-          "publicPath": "/example-graphql-go/es/assets/js/ebc8d2c5.a8c880cf.js"
+          "file": "assets/js/ebc8d2c5.aaaddfea.js",
+          "hash": "20fc5f47031e8d01c273",
+          "publicPath": "/graphql-go.org/es/assets/js/ebc8d2c5.aaaddfea.js"
         }
       ]
     },
     "9609": {
       "js": [
         {
-          "file": "assets/js/0409dbe3.4b75212a.js",
-          "hash": "de5aa14a86f3c2c830c9",
-          "publicPath": "/example-graphql-go/es/assets/js/0409dbe3.4b75212a.js"
+          "file": "assets/js/0409dbe3.615ac987.js",
+          "hash": "5bfbebd054861ea5b72e",
+          "publicPath": "/graphql-go.org/es/assets/js/0409dbe3.615ac987.js"
+        }
+      ]
+    },
+    "9669": {
+      "js": [
+        {
+          "file": "assets/js/4cb4ced1.5e94a847.js",
+          "hash": "4f53204c6127e66fef9b",
+          "publicPath": "/graphql-go.org/es/assets/js/4cb4ced1.5e94a847.js"
         }
       ]
     },
     "9687": {
       "js": [
         {
-          "file": "assets/js/572897ec.b1a41a28.js",
-          "hash": "57f6a2312a35fb87055a",
-          "publicPath": "/example-graphql-go/es/assets/js/572897ec.b1a41a28.js"
+          "file": "assets/js/572897ec.4ec1718f.js",
+          "hash": "7a1d75fc42f6caa56fd7",
+          "publicPath": "/graphql-go.org/es/assets/js/572897ec.4ec1718f.js"
         }
       ]
     },
     "9781": {
       "js": [
         {
-          "file": "assets/js/97a631aa.43efa14d.js",
-          "hash": "8b27932afae60a630d98",
-          "publicPath": "/example-graphql-go/es/assets/js/97a631aa.43efa14d.js"
+          "file": "assets/js/97a631aa.2326e6fa.js",
+          "hash": "94261efb4e6895e85ee5",
+          "publicPath": "/graphql-go.org/es/assets/js/97a631aa.2326e6fa.js"
         }
       ]
     },
     "9810": {
       "js": [
         {
-          "file": "assets/js/c95b781b.8bb95b28.js",
-          "hash": "4cfb31e2e9dd5906b45f",
-          "publicPath": "/example-graphql-go/es/assets/js/c95b781b.8bb95b28.js"
+          "file": "assets/js/c95b781b.0ea2af7f.js",
+          "hash": "333790794da8a69c670c",
+          "publicPath": "/graphql-go.org/es/assets/js/c95b781b.0ea2af7f.js"
         }
       ]
     }

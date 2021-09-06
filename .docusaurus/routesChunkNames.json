@@ -1,9 +1,9 @@
 {
-  "/example-graphql-go/es/-9e6": {
+  "/graphql-go.org/es/-24d": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/example-graphql-go/es/blog-bc3": {
+  "/graphql-go.org/es/blog-9a8": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
@@ -17,24 +17,24 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "d2306160"
+    "metadata": "d6f5399c"
   },
-  "/example-graphql-go/es/blog/hello-world-092": {
+  "/graphql-go.org/es/blog/hello-world-537": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "d610846f"
   },
-  "/example-graphql-go/es/blog/hola-c81": {
+  "/graphql-go.org/es/blog/hola-c46": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "bdd709f1"
   },
-  "/example-graphql-go/es/blog/tags-4d0": {
+  "/graphql-go.org/es/blog/tags-918": {
     "component": "01a85c17",
     "sidebar": "814f3328",
-    "tags": "ce0bd789"
+    "tags": "fb8c225d"
   },
-  "/example-graphql-go/es/blog/tags/docusaurus-513": {
+  "/graphql-go.org/es/blog/tags/docusaurus-3f6": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -48,9 +48,9 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "723a8abe"
+    "metadata": "ac610320"
   },
-  "/example-graphql-go/es/blog/tags/facebook-7a2": {
+  "/graphql-go.org/es/blog/tags/facebook-53c": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -58,9 +58,9 @@
         "content": "af172acd"
       }
     ],
-    "metadata": "658f9500"
+    "metadata": "27a224a5"
   },
-  "/example-graphql-go/es/blog/tags/hello-58f": {
+  "/graphql-go.org/es/blog/tags/hello-d90": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -71,9 +71,9 @@
         "content": "3570154c"
       }
     ],
-    "metadata": "d9a093c4"
+    "metadata": "4816f297"
   },
-  "/example-graphql-go/es/blog/tags/hola-aaf": {
+  "/graphql-go.org/es/blog/tags/hola-28d": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -81,218 +81,218 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "b62d4f4d"
+    "metadata": "4cb4ced1"
   },
-  "/example-graphql-go/es/blog/welcome-d5e": {
+  "/graphql-go.org/es/blog/welcome-006": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "2868cdab"
   },
-  "/example-graphql-go/es/markdown-page-3a6": {
+  "/graphql-go.org/es/markdown-page-567": {
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/example-graphql-go/es/docs/0.7.8-1c0": {
+  "/graphql-go.org/es/docs/0.7.8-d6e": {
     "component": "1be78505",
     "versionMetadata": "0409dbe3"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/concurrent-resolvers-90d": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/concurrent-resolvers-864": {
     "component": "17896441",
     "content": "720bb822"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/context-384": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/context-302": {
     "component": "17896441",
     "content": "03caa7d4"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/crud-fd4": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/crud-ef4": {
     "component": "17896441",
     "content": "5eb33dce"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/custom-scalar-type-ffd": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/custom-scalar-type-fff": {
     "component": "17896441",
     "content": "13a73e24"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/graphql-api-47b": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/graphql-api-a4a": {
     "component": "17896441",
     "content": "9888240d"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/hello-world-97e": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/hello-world-0b0": {
     "component": "17896441",
     "content": "b1d28ae8"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/http-8ac": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/http-8e1": {
     "component": "17896441",
     "content": "732470f6"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/http-dynamic-776": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/http-dynamic-ae9": {
     "component": "17896441",
     "content": "51433da1"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/http-post-122": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/http-post-e8e": {
     "component": "17896441",
     "content": "45120849"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/modify-context-4b8": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/modify-context-45f": {
     "component": "17896441",
     "content": "48d0e610"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/star-wars-5ea": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/star-wars-232": {
     "component": "17896441",
     "content": "ae731b22"
   },
-  "/example-graphql-go/es/docs/0.7.8/Examples/todo-example-846": {
+  "/graphql-go.org/es/docs/0.7.8/Examples/todo-example-c79": {
     "component": "17896441",
     "content": "237ac5d3"
   },
-  "/example-graphql-go/es/docs/0.7.8/tutorial-basics/installation-5df": {
+  "/graphql-go.org/es/docs/0.7.8/tutorial-basics/installation-aa9": {
     "component": "17896441",
     "content": "b1821eea"
   },
-  "/example-graphql-go/es/docs/0.7.8/tutorial-basics/overview-f88": {
+  "/graphql-go.org/es/docs/0.7.8/tutorial-basics/overview-a66": {
     "component": "17896441",
     "content": "eb09cd18"
   },
-  "/example-graphql-go/es/docs/0.7.8/tutorial-basics/quick-start-0fc": {
+  "/graphql-go.org/es/docs/0.7.8/tutorial-basics/quick-start-8cf": {
     "component": "17896441",
     "content": "ca9e6dc9"
   },
-  "/example-graphql-go/es/docs/0.7.9-1c6": {
+  "/graphql-go.org/es/docs/0.7.9-406": {
     "component": "1be78505",
     "versionMetadata": "865260f1"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/concurrent-resolvers-d2a": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/concurrent-resolvers-6b1": {
     "component": "17896441",
     "content": "11975983"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/context-75c": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/context-9e3": {
     "component": "17896441",
     "content": "9f8e37da"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/crud-6a4": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/crud-719": {
     "component": "17896441",
     "content": "0b43df9b"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/custom-scalar-type-3d4": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/custom-scalar-type-e24": {
     "component": "17896441",
     "content": "7edda983"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/graphql-api-b31": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/graphql-api-8e4": {
     "component": "17896441",
     "content": "3c1014d9"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/hello-world-6d0": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/hello-world-844": {
     "component": "17896441",
     "content": "c2b042fd"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/http-e79": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/http-7bf": {
     "component": "17896441",
     "content": "4f21bdaf"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/http-dynamic-cfa": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/http-dynamic-5b6": {
     "component": "17896441",
     "content": "97e3f704"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/http-post-bf6": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/http-post-d51": {
     "component": "17896441",
     "content": "572897ec"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/modify-context-4fe": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/modify-context-1b3": {
     "component": "17896441",
     "content": "0efad864"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/sql-nullstring-fbd": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/sql-nullstring-d32": {
     "component": "17896441",
     "content": "2e870d34"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/star-wars-9f8": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/star-wars-6fe": {
     "component": "17896441",
     "content": "d973021e"
   },
-  "/example-graphql-go/es/docs/0.7.9/Examples/todo-example-787": {
+  "/graphql-go.org/es/docs/0.7.9/Examples/todo-example-32c": {
     "component": "17896441",
     "content": "6900e51d"
   },
-  "/example-graphql-go/es/docs/0.7.9/tutorial-basics/Installation-a6f": {
+  "/graphql-go.org/es/docs/0.7.9/tutorial-basics/Installation-de2": {
     "component": "17896441",
     "content": "0da4f1d2"
   },
-  "/example-graphql-go/es/docs/0.7.9/tutorial-basics/overview-5b7": {
+  "/graphql-go.org/es/docs/0.7.9/tutorial-basics/overview-988": {
     "component": "17896441",
     "content": "f310019d"
   },
-  "/example-graphql-go/es/docs/0.7.9/tutorial-basics/Quick-Start-01e": {
+  "/graphql-go.org/es/docs/0.7.9/tutorial-basics/Quick-Start-3f4": {
     "component": "17896441",
     "content": "434328f4"
   },
-  "/example-graphql-go/es/docs-911": {
+  "/graphql-go.org/es/docs-e52": {
     "component": "1be78505",
     "versionMetadata": "c95b781b"
   },
-  "/example-graphql-go/es/docs/Examples/concurrent-resolvers-b93": {
+  "/graphql-go.org/es/docs/Examples/concurrent-resolvers-e35": {
     "component": "17896441",
     "content": "f0c022c1"
   },
-  "/example-graphql-go/es/docs/Examples/context-5de": {
+  "/graphql-go.org/es/docs/Examples/context-385": {
     "component": "17896441",
     "content": "08446aae"
   },
-  "/example-graphql-go/es/docs/Examples/crud-2e1": {
+  "/graphql-go.org/es/docs/Examples/crud-ba1": {
     "component": "17896441",
     "content": "f1a3f642"
   },
-  "/example-graphql-go/es/docs/Examples/custom-scalar-type-faa": {
+  "/graphql-go.org/es/docs/Examples/custom-scalar-type-cbc": {
     "component": "17896441",
     "content": "6be3a444"
   },
-  "/example-graphql-go/es/docs/Examples/graphql-api-6cb": {
+  "/graphql-go.org/es/docs/Examples/graphql-api-e4d": {
     "component": "17896441",
     "content": "90cee422"
   },
-  "/example-graphql-go/es/docs/Examples/hello-world-25c": {
+  "/graphql-go.org/es/docs/Examples/hello-world-b7d": {
     "component": "17896441",
     "content": "97a631aa"
   },
-  "/example-graphql-go/es/docs/Examples/http-50b": {
+  "/graphql-go.org/es/docs/Examples/http-794": {
     "component": "17896441",
     "content": "9630d407"
   },
-  "/example-graphql-go/es/docs/Examples/http-dynamic-8f7": {
+  "/graphql-go.org/es/docs/Examples/http-dynamic-4be": {
     "component": "17896441",
     "content": "9f81b4ec"
   },
-  "/example-graphql-go/es/docs/Examples/http-post-c5d": {
+  "/graphql-go.org/es/docs/Examples/http-post-d00": {
     "component": "17896441",
     "content": "e9636d49"
   },
-  "/example-graphql-go/es/docs/Examples/modify-context-1c9": {
+  "/graphql-go.org/es/docs/Examples/modify-context-14d": {
     "component": "17896441",
     "content": "ebc8d2c5"
   },
-  "/example-graphql-go/es/docs/Examples/sql-nullstring-bd6": {
+  "/graphql-go.org/es/docs/Examples/sql-nullstring-f78": {
     "component": "17896441",
     "content": "6a42c4f1"
   },
-  "/example-graphql-go/es/docs/Examples/star-wars-135": {
+  "/graphql-go.org/es/docs/Examples/star-wars-a17": {
     "component": "17896441",
     "content": "e6d076cf"
   },
-  "/example-graphql-go/es/docs/Examples/subscription-f31": {
+  "/graphql-go.org/es/docs/Examples/subscription-94b": {
     "component": "17896441",
     "content": "b195587d"
   },
-  "/example-graphql-go/es/docs/Examples/todo-example-781": {
+  "/graphql-go.org/es/docs/Examples/todo-example-e9f": {
     "component": "17896441",
     "content": "98d357da"
   },
-  "/example-graphql-go/es/docs/tutorial-basics/Installation-046": {
+  "/graphql-go.org/es/docs/tutorial-basics/Installation-1a5": {
     "component": "17896441",
     "content": "31a0404d"
   },
-  "/example-graphql-go/es/docs/tutorial-basics/Overview-0dd": {
+  "/graphql-go.org/es/docs/tutorial-basics/Overview-eac": {
     "component": "17896441",
     "content": "6c9a4677"
   },
-  "/example-graphql-go/es/docs/tutorial-basics/Quick-Start-b1f": {
+  "/graphql-go.org/es/docs/tutorial-basics/Quick-Start-ae3": {
     "component": "17896441",
     "content": "f30a5d65"
   }

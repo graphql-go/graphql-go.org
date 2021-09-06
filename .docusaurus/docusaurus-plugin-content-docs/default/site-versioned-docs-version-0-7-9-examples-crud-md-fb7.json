@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-0.7.9/Examples/crud.md",
   "sourceDirName": "Examples",
   "slug": "/Examples/crud",
-  "permalink": "/example-graphql-go/docs/0.7.9/Examples/crud",
+  "permalink": "/graphql-go.org/docs/0.7.9/Examples/crud",
   "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/crud.md",
   "version": "0.7.9",
   "lastUpdatedAt": 1630538788,
@@ -19,10 +19,10 @@
   "sidebar": "version-0.7.9/tutorialSidebar",
   "previous": {
     "title": "Context",
-    "permalink": "/example-graphql-go/docs/0.7.9/Examples/context"
+    "permalink": "/graphql-go.org/docs/0.7.9/Examples/context"
   },
   "next": {
     "title": "Custom Scalar Type",
-    "permalink": "/example-graphql-go/docs/0.7.9/Examples/custom-scalar-type"
+    "permalink": "/graphql-go.org/docs/0.7.9/Examples/custom-scalar-type"
   }
 }

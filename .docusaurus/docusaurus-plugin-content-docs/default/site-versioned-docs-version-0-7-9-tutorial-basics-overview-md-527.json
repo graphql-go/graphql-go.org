@@ -7,7 +7,7 @@
   "source": "@site/versioned_docs/version-0.7.9/tutorial-basics/overview.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/overview",
-  "permalink": "/example-graphql-go/docs/0.7.9/tutorial-basics/overview",
+  "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/overview",
   "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/tutorial-basics/overview.md",
   "version": "0.7.9",
   "lastUpdatedAt": 1630538788,
@@ -19,6 +19,6 @@
   "sidebar": "version-0.7.9/tutorialSidebar",
   "next": {
     "title": "Installation",
-    "permalink": "/example-graphql-go/docs/0.7.9/tutorial-basics/Installation"
+    "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/Installation"
   }
 }

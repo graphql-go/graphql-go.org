@@ -1,13 +1,13 @@
 export default {
   "title": "graphql-go/graphql",
   "tagline": "An implementation of GraphQL for Go",
-  "url": "https://LuisIzarra.github.io",
-  "baseUrl": "/example-graphql-go/es/",
+  "url": "https://github.com/graphql-go",
+  "baseUrl": "/graphql-go.org/es/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/GraphQL_Logo.ico",
-  "organizationName": "LuisIzarra",
-  "projectName": "example-graphql-go",
+  "organizationName": "graphql-go",
+  "projectName": "graphql-go.org",
   "themeConfig": {
     "navbar": {
       "title": "graphql-go/graphql",
