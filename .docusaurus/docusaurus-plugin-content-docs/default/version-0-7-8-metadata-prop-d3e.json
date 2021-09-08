@@ -13,17 +13,17 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/graphql-go.org/es/docs/0.7.8/tutorial-basics/overview"
+            "href": "/graphql-go.org/docs/0.7.8/tutorial-basics/overview"
           },
           {
             "type": "link",
             "label": "Installation",
-            "href": "/graphql-go.org/es/docs/0.7.8/tutorial-basics/installation"
+            "href": "/graphql-go.org/docs/0.7.8/tutorial-basics/installation"
           },
           {
             "type": "link",
             "label": "Quick Start",
-            "href": "/graphql-go.org/es/docs/0.7.8/tutorial-basics/quick-start"
+            "href": "/graphql-go.org/docs/0.7.8/tutorial-basics/quick-start"
           }
         ],
         "collapsed": true
@@ -35,62 +35,62 @@
           {
             "type": "link",
             "label": "GraphQL API",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/graphql-api"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/graphql-api"
           },
           {
             "type": "link",
             "label": "Concurrent Resolvers",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/concurrent-resolvers"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/concurrent-resolvers"
           },
           {
             "type": "link",
             "label": "Context",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/context"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/context"
           },
           {
             "type": "link",
             "label": "Go GraphQL CRUD Example",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/crud"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/crud"
           },
           {
             "type": "link",
             "label": "Custom Scalar Type",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/custom-scalar-type"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/custom-scalar-type"
           },
           {
             "type": "link",
             "label": "Hello World",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/hello-world"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/hello-world"
           },
           {
             "type": "link",
             "label": "HTTP - Post",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/http-post"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/http-post"
           },
           {
             "type": "link",
             "label": "HTTP",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/http"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/http"
           },
           {
             "type": "link",
             "label": "HTTP Dynamic",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/http-dynamic"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/http-dynamic"
           },
           {
             "type": "link",
             "label": "Modify Context",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/modify-context"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/modify-context"
           },
           {
             "type": "link",
             "label": "Star Wars",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/star-wars"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/star-wars"
           },
           {
             "type": "link",
             "label": "Go GraphQL ToDo example",
-            "href": "/graphql-go.org/es/docs/0.7.8/Examples/todo-example"
+            "href": "/graphql-go.org/docs/0.7.8/Examples/todo-example"
           }
         ],
         "collapsed": true
@@ -98,20 +98,20 @@
     ]
   },
   "permalinkToSidebar": {
-    "/graphql-go.org/es/docs/0.7.8/Examples/concurrent-resolvers": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/context": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/crud": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/custom-scalar-type": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/graphql-api": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/hello-world": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/http": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/http-dynamic": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/http-post": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/modify-context": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/star-wars": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/Examples/todo-example": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/tutorial-basics/installation": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/tutorial-basics/overview": "version-0.7.8/tutorialSidebar",
-    "/graphql-go.org/es/docs/0.7.8/tutorial-basics/quick-start": "version-0.7.8/tutorialSidebar"
+    "/graphql-go.org/docs/0.7.8/Examples/concurrent-resolvers": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/context": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/crud": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/custom-scalar-type": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/graphql-api": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/hello-world": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/http": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/http-dynamic": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/http-post": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/modify-context": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/star-wars": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/Examples/todo-example": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/tutorial-basics/installation": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/tutorial-basics/overview": "version-0.7.8/tutorialSidebar",
+    "/graphql-go.org/docs/0.7.8/tutorial-basics/quick-start": "version-0.7.8/tutorialSidebar"
   }
 }

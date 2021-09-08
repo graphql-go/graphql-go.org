@@ -8,10 +8,10 @@
   "sourceDirName": "Examples",
   "slug": "/Examples/sql-nullstring",
   "permalink": "/graphql-go.org/docs/0.7.9/Examples/sql-nullstring",
-  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.9/Examples/sql-nullstring.md",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.7.9/Examples/sql-nullstring.md",
   "version": "0.7.9",
-  "lastUpdatedAt": 1630538788,
-  "formattedLastUpdatedAt": "9/1/2021",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 11,
   "frontMatter": {
     "sidebar_position": 11

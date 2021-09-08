@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/overview",
+  "id": "version-0.8.0/tutorial-basics/overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "An implementation of GraphQL in Go. Follows the official reference implementation graphql-js.",
+  "source": "@site/versioned_docs/version-0.8.0/tutorial-basics/overview.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/overview",
+  "permalink": "/graphql-go.org/docs/tutorial-basics/overview",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.8.0/tutorial-basics/overview.md",
+  "version": "0.8.0",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-0.8.0/tutorialSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/graphql-go.org/docs/tutorial-basics/installation"
+  }
+}

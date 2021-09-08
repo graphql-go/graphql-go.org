@@ -7,11 +7,11 @@
   "source": "@site/versioned_docs/version-0.8.0/Examples/subscription.md",
   "sourceDirName": "Examples",
   "slug": "/Examples/subscription",
-  "permalink": "/graphql-go.org/es/docs/Examples/subscription",
-  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.8.0/Examples/subscription.md",
+  "permalink": "/graphql-go.org/docs/Examples/subscription",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.8.0/Examples/subscription.md",
   "version": "0.8.0",
-  "lastUpdatedAt": 1630538788,
-  "formattedLastUpdatedAt": "1/9/2021",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 14,
   "frontMatter": {
     "sidebar_position": 14
@@ -19,6 +19,6 @@
   "sidebar": "version-0.8.0/tutorialSidebar",
   "previous": {
     "title": "Go GraphQL ToDo example",
-    "permalink": "/graphql-go.org/es/docs/Examples/todo-example"
+    "permalink": "/graphql-go.org/docs/Examples/todo-example"
   }
 }

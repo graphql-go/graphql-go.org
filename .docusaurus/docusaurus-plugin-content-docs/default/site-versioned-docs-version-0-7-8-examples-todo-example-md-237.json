@@ -7,11 +7,11 @@
   "source": "@site/versioned_docs/version-0.7.8/Examples/todo-example.md",
   "sourceDirName": "Examples",
   "slug": "/Examples/todo-example",
-  "permalink": "/graphql-go.org/es/docs/0.7.8/Examples/todo-example",
-  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.8/Examples/todo-example.md",
+  "permalink": "/graphql-go.org/docs/0.7.8/Examples/todo-example",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.7.8/Examples/todo-example.md",
   "version": "0.7.8",
-  "lastUpdatedAt": 1630538788,
-  "formattedLastUpdatedAt": "1/9/2021",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 12,
   "frontMatter": {
     "sidebar_position": 12
@@ -19,6 +19,6 @@
   "sidebar": "version-0.7.8/tutorialSidebar",
   "previous": {
     "title": "Star Wars",
-    "permalink": "/graphql-go.org/es/docs/0.7.8/Examples/star-wars"
+    "permalink": "/graphql-go.org/docs/0.7.8/Examples/star-wars"
   }
 }

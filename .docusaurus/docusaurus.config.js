@@ -2,7 +2,7 @@ export default {
   "title": "graphql-go/graphql",
   "tagline": "An implementation of GraphQL for Go",
   "url": "https://github.com/graphql-go",
-  "baseUrl": "/graphql-go.org/es/",
+  "baseUrl": "/graphql-go.org/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/GraphQL_Logo.ico",
@@ -20,7 +20,7 @@ export default {
       "items": [
         {
           "to": "/docs/tutorial-basics/overview",
-          "label": "Documentación",
+          "label": "Docs",
           "position": "left"
         },
         {
@@ -45,20 +45,20 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Documentación",
+          "title": "Docs",
           "items": [
             {
-              "label": "Empezar",
+              "label": "Getting Started",
               "to": "/docs/tutorial-basics/overview"
             },
             {
-              "label": "Ejecutando GraphQL API",
+              "label": "Runnning a GraphQL API",
               "to": "/docs/examples/graphql-api"
             }
           ]
         },
         {
-          "title": "Comunidad",
+          "title": "Community",
           "items": [
             {
               "label": "Gitter",
@@ -67,7 +67,7 @@ export default {
           ]
         },
         {
-          "title": "Más",
+          "title": "More",
           "items": [
             {
               "label": "GitHub",
@@ -117,14 +117,14 @@ export default {
         "docs": {
           "path": "docs",
           "sidebarPath": "/Users/luisrodriguez/graphql-go.org/sidebars.js",
-          "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/",
+          "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/",
           "includeCurrentVersion": false,
           "showLastUpdateAuthor": false,
           "showLastUpdateTime": true
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/LuisIzarra/example-graphql-go/edit/tree/main/blog/"
+          "editUrl": "hhttps://github.com/graphql-go/graphql-go.org/blob/main/blog/"
         },
         "theme": {
           "customCss": "/Users/luisrodriguez/graphql-go.org/src/css/custom.css"

@@ -7,11 +7,11 @@
   "source": "@site/versioned_docs/version-0.7.8/Examples/http-dynamic.md",
   "sourceDirName": "Examples",
   "slug": "/Examples/http-dynamic",
-  "permalink": "/graphql-go.org/es/docs/0.7.8/Examples/http-dynamic",
-  "editUrl": "https://github.com/LuisIzarra/example-graphql-go/blob/main/versioned_docs/version-0.7.8/Examples/http-dynamic.md",
+  "permalink": "/graphql-go.org/docs/0.7.8/Examples/http-dynamic",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.7.8/Examples/http-dynamic.md",
   "version": "0.7.8",
-  "lastUpdatedAt": 1630538788,
-  "formattedLastUpdatedAt": "1/9/2021",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 9,
   "frontMatter": {
     "sidebar_position": 9
@@ -19,10 +19,10 @@
   "sidebar": "version-0.7.8/tutorialSidebar",
   "previous": {
     "title": "HTTP",
-    "permalink": "/graphql-go.org/es/docs/0.7.8/Examples/http"
+    "permalink": "/graphql-go.org/docs/0.7.8/Examples/http"
   },
   "next": {
     "title": "Modify Context",
-    "permalink": "/graphql-go.org/es/docs/0.7.8/Examples/modify-context"
+    "permalink": "/graphql-go.org/docs/0.7.8/Examples/modify-context"
   }
 }

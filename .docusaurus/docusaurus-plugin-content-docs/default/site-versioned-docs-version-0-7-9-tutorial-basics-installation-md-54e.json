@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/installation",
+  "id": "version-0.7.9/tutorial-basics/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "To install the library, run:",
+  "source": "@site/versioned_docs/version-0.7.9/tutorial-basics/installation.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/installation",
+  "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/installation",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.7.9/tutorial-basics/installation.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/overview"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/quick-start"
+  }
+}

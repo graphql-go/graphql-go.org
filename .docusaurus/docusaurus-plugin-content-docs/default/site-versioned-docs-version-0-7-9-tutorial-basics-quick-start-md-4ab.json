@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/quick-start",
+  "id": "version-0.7.9/tutorial-basics/quick-start",
+  "isDocsHomePage": false,
+  "title": "Quick Start",
+  "description": "The following is a simple example which defines a schema with a single hello string-type field and a Resolve method which returns the string world. A GraphQL query is performed against this schema with the resulting output printed in JSON format.",
+  "source": "@site/versioned_docs/version-0.7.9/tutorial-basics/quick-start.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/quick-start",
+  "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/quick-start",
+  "editUrl": "https://github.com/graphql-go/graphql-go.org/blob/main/versioned_docs/version-0.7.9/tutorial-basics/quick-start.md",
+  "version": "0.7.9",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-0.7.9/tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/graphql-go.org/docs/0.7.9/tutorial-basics/installation"
+  },
+  "next": {
+    "title": "GraphQL API",
+    "permalink": "/graphql-go.org/docs/0.7.9/Examples/graphql-api"
+  }
+}

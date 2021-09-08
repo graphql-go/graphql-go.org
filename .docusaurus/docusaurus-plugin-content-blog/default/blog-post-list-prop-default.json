@@ -3,15 +3,15 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/graphql-go.org/es/blog/welcome"
+      "permalink": "/graphql-go.org/blog/welcome"
     },
     {
       "title": "Hello",
-      "permalink": "/graphql-go.org/es/blog/hello-world"
+      "permalink": "/graphql-go.org/blog/hello-world"
     },
     {
       "title": "Hola",
-      "permalink": "/graphql-go.org/es/blog/hola"
+      "permalink": "/graphql-go.org/blog/hola"
     }
   ]
 }
