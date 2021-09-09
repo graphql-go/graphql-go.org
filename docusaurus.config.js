@@ -142,7 +142,7 @@ module.exports = {
           path: "docs",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/graphql-go/graphql-go.org/blob/main/",
+          editUrl: "https://github.com/graphql-go/graphql-go.org/blob/master/",
           includeCurrentVersion: false,
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
@@ -151,7 +151,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "hhttps://github.com/graphql-go/graphql-go.org/blob/main/blog/",
+            "hhttps://github.com/graphql-go/graphql-go.org/blob/master/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
